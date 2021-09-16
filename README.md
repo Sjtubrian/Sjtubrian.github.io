@@ -1,5 +1,5 @@
 ## Ruize Gao
-I am a Research Assistant of [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), supervised by [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/). I received my B.E. degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU) in 2020. 
+I am a Research Assistant of [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), supervised by Prof. [James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/). I received my B.E. degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU) in 2020. 
 
 My current research interests include trustworthy machine learning, especially for adversarial robustness. I am also working closely with Dr. [Kaiwen Zhou](https://appsrv.cse.cuhk.edu.hk/~kwzhou/)@CUHK, Prof. [Feng Liu](https://fengliu90.github.io/)@UTS, Prof. [Bo Han](https://bhanml.github.io/)@HKBU and Dr. [Gang Niu](https://niug1984.github.io/)@RIKEN.
 

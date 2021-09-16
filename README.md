@@ -10,7 +10,7 @@ E-mail: ruizegao@cuhk.edu.hk & sjtu16.brian.gao@gmail.com
 [[Google Scholar](https://scholar.google.com.tw/citations?view_op=list_works&hl=en&hl=en&user=KKgeqQMAAAAJ)]  
 
 
-### Working Papers
+### Preprints
 1. **R. Gao†**, F. Liu†, K. Zhou, G. Niu, B. Han and J. Cheng.  
 Local Reweighting for Adversarial Training.  
 [[arXiv](https://arxiv.org/pdf/2106.15776.pdf)][CODE]  

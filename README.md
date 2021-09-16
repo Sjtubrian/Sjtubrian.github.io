@@ -21,8 +21,8 @@ Local Reweighting for Adversarial Training.
 Maximum Mean Discrepancy is Aware of Adversarial Attacks.  
 In *International Conference on Machine Learning **(ICML 2021)***, 2021 (CORE A*).  
 [[arXiv](https://arxiv.org/abs/2010.11415)][[CODE](https://github.com/Sjtubrian/SAMMD)]
-2. J. Li, Y. Ma, **R. Gao**, Z. Cao, A. Lim, W. Song, J. Zhang.
-Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem.
+2. J. Li, Y. Ma, **R. Gao**, Z. Cao, A. Lim, W. Song, J. Zhang.  
+Deep Reinforcement Learning for Solving the Heterogeneous Capacitated Vehicle Routing Problem.  
 *IEEE Transactions on Cybernetics **(T-Cybernetics)***, 2021 (JCR Q1).  
 [arXiv][[CODE](https://github.com/Demon0312/HCVRP_DRL)]  
 † represents equal contribution.  
